@@ -3,8 +3,9 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return '@JishuDeveloper'
+    return 'Hello Koyeb!'
 
 if __name__ == "__main__":
-    # Bind to 0.0.0.0 and port 8080 to work with Koyeb
-    app.run(host='0.0.0.0', port=8080)
+    # Use the port from the environment variable 'PORT' provided by Koyeb, or default to 8080
+    port = int(os.environ.get('PORT', 8080))
+    app.run(host='0.0.0.0', port=port, debug=True)

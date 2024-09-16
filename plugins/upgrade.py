@@ -25,7 +25,7 @@ Price Rs 199  ind /🌎 3.16$  per Month
 <b>Payment Details:</b><br><br>
 <b>➜ UPI ID:</b> <code>9905665309@fam</code><br>
 <b>➜ PayPal:</b> <a href='https://www.paypal.me/ibbs09'>Click Here</a><br>
-<b>➜ QR Code:</b> <a href='https://telegra.ph/Scan--Pay-09-15-2'>Scan & Pay</a>
+<b>➜ QR Code:</b> <a href='https://telegra.ph/ScanPay-09-16'>Scan & Pay</a>
 
 After Payment Send Screenshots Of Payment To Admin @OnAnimeSeriesAdminbot"""
     
@@ -56,7 +56,7 @@ Price Rs 199  ind /🌎 3.16$  per Month
 <b>Payment Details:</b><br><br>
 <b>➜ UPI ID:</b> <code>9905665309@fam</code><br>
 <b>➜ PayPal:</b> <a href='https://www.paypal.me/ibbs09'>Click Here</a><br>
-<b>➜ QR Code:</b> <a href='https://telegra.ph/Scan--Pay-09-15-2'>Scan & Pay</a>
+<b>➜ QR Code:</b> <a href='https://telegra.ph/ScanPay-09-16'>Scan & Pay</a>
 
 After Payment Send Screenshots Of Payment To Admin @OnAnimeSeriesAdminbot"""
     

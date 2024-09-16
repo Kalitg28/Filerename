@@ -12,20 +12,20 @@ Price 0
 
 **🪙 Basic**
 Daily  Upload  limit 20GB
-Price Rs 69 ind /🌎 1$  per Month
+Price Rs 69  ind /🌎 1$  per Month
 
 **⚡ Standard**
 Daily Upload limit 50GB
-Price Rs 169 ind /🌎 2.19$  per Month
+Price Rs 169  ind /🌎 2.19$  per Month
 
 **💎 Pro**
 Daily Upload limit 100GB
-Price Rs 199 ind /🌎 3.16$  per Month
+Price Rs 199  ind /🌎 3.16$  per Month
 
-<b>Payment Details:</b><br><br>
-<b>➜ UPI ID:</b> <code>9905665309@fam</code><br>
-<b>➜ PayPal:</b> <a href='https://www.paypal.me/ibbs09'>Click Here</a><br>
-<b>➜ QR Code:</b> <a href='https://telegra.ph/ScanPay-09-16'>Scan & Pay</a>
+Payment Details :-
+<b>➜ UPI ID :</b> <code>9905665309@fam</code>
+<b>➜ PayPal :</b> <a href='https://www.paypal.me/ibbs09'>Click Here</a>
+<b>➜ QR Code :</b> <a href='https://telegra.ph/ScanPay-09-16'>Click Here</a>
 
 After Payment Send Screenshots Of Payment To Admin @OnAnimeSeriesAdminbot"""
     
@@ -43,20 +43,20 @@ async def upgradecm(bot,message):
     text = """**Free Plan User**
 **🪙 Basic**
 Daily  Upload  limit 20GB
-Price Rs 69 ind /🌎 1$  per Month
+Price Rs 69  ind /🌎 1$  per Month
 
 **⚡ Standard**
 Daily Upload limit 50GB
-Price Rs 169 ind /🌎 2.19$  per Month
+Price Rs 169  ind /🌎 2.19$  per Month
 
 **💎 Pro**
 Daily Upload limit 100GB
-Price Rs 199 ind /🌎 3.16$  per Month
+Price Rs 199  ind /🌎 3.16$  per Month
 
-<b>Payment Details:</b><br><br>
-<b>➜ UPI ID:</b> <code>9905665309@fam</code><br>
-<b>➜ PayPal:</b> <a href='https://www.paypal.me/ibbs09'>Click Here</a><br>
-<b>➜ QR Code:</b> <a href='https://telegra.ph/ScanPay-09-16'>Scan & Pay</a>
+Payment Details :-
+<b>➜ UPI ID :</b> <code>9905665309@fam</code>
+<b>➜ PayPal :</b> <a href='https://www.paypal.me/ibbs09'>Click Here</a>
+<b>➜ QR Code :</b> <a href='https://telegra.ph/ScanPay-09-16'>Click Here</a>
 
 After Payment Send Screenshots Of Payment To Admin @OnAnimeSeriesAdminbot"""
     

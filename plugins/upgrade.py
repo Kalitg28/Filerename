@@ -23,7 +23,7 @@ Daily Upload limit 100GB
 Price Rs 199  ind /🌎 3.16$  per Month
 
 Payment Details :-
-<b>➜ UPI ID :</b> <code>madflixofficial@axl</code>
+<b>➜ UPI ID :</b> <code>9905665309@fam</code>
 <b>➜ PayPal :</b> <a href='https://www.paypal.me/ibbs09'>Click Here</a>
 <b>➜ QR Code :</b> <a href='https://telegra.ph/Scan--Pay-09-15-2'>Click Here</a>
 
@@ -54,7 +54,7 @@ Daily Upload limit 100GB
 Price Rs 199  ind /🌎 3.16$  per Month
 
 Payment Details :-
-<b>➜ UPI ID :</b> <code>madflixofficial@axl</code>
+<b>➜ UPI ID :</b> <code>9905665309@fam</code>
 <b>➜ PayPal :</b> <a href='https://www.paypal.me/ibbs09'>Click Here</a>
 <b>➜ QR Code :</b> <a href='https://telegra.ph/Scan--Pay-09-15-2'>Click Here</a>
 

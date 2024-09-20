@@ -37,7 +37,7 @@ async def start(client, message):
     
     button = InlineKeyboardMarkup([
         [InlineKeyboardButton("ᴏɴɢᴏɪɴɢ ᴀɴɪᴍᴇ ꜱᴇʀɪᴇꜱ", url="https://t.me/OnAnimeSeries"),
-        InlineKeyboardButton("💬 Support", url="https://t.me/OnAnimeseries_Support")],
+        InlineKeyboardButton("💬 Support", url="https://t.me/OnAnimeseriesSupport")],
         [InlineKeyboardButton("🛠️ Help", callback_data='help'),
         InlineKeyboardButton("❤️‍🩹 About", callback_data='about')],
         [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://t.me/OnAnimeSeriesAdminbot")]

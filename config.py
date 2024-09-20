@@ -1,7 +1,5 @@
 import os
-
-
-
+import time
 
 # Required Variables Config
 API_ID = int(os.environ.get("API_ID", "9389796"))
@@ -10,10 +8,10 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "7133030764:AAE5JAGDqiNigmPiuuJBaC-YhGti
 ADMIN = int(os.environ.get("ADMIN", "5197673717"))
 
 
-
 # Premium 4GB Renaming Client Config
 STRING_SESSION = os.environ.get("STRING_SESSION", "BQCPRuQAE4DEstPiqGR-YV3qsRMqgFzM7Q1sIpMULN2i8ytRSIqMIJ05oH-CRKAHeCdaNTnva1mM63wzJUsz5eeAlt66bSKdKuEXFFaaDMrIfhHMx8oduvKHAR2O7NZzkdwjmGeiu3Rks4iguvEhbZutjxdry0zhwTt7Fllx7LPRWyc_4DzWScYmaLABKTG9C356GOnrOn9EahxA6MQalOJdpg4eoti7blTRuU4F8lBJA0yPapaOs3Jm4-cCAQ2ZoAyzIyNAQWqH_8Q5TaJ4-dy9v6NlPZ40n-PugzjinjhWEpa2n0LBZsBCIprrlVccd99dAFbvNRbqoNY1KeDNXaubquwHuwAAAAE1zjT1AA")
 
+BOT_UPTIME  = time.time()
 
 # Log & Force Channel Config
 FORCE_SUBS = os.environ.get("FORCE_SUBS", "OnAnimeSeries")

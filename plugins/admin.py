@@ -1,8 +1,34 @@
 from pyrogram.types import (InlineKeyboardButton, InlineKeyboardMarkup)
 from config import *
+import config
+import os, sys, time, asyncio, logging, datetime
 from pyrogram import Client, filters
 from helper.date import add_date
-from helper.database import uploadlimit, usertype, addpre
+from helper.database import uploadlimit, usertype, addpre, total_user
+
+
+
+
+
+
+#Update Form github
+@Client.on_message(filters.command("update") & filters.user(config.ADMIN))
+async def update_bot(c, m):
+    try:
+        os.system("git pull")
+        await m.reply_text("📤 __ᴜᴩᴅᴀᴛᴇᴅ & ʀᴇꜱᴛᴀʀᴛɪɴɢ...__")
+        os.execl(sys.executable, sys.executable, "bot.py")
+    except Exception as e:
+        await m.reply(e)
+
+
+
+
+
+
+
+
+
 
 
 

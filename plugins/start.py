@@ -30,18 +30,18 @@ async def start(client, message):
     except IndexError:
         id = None
 
-    loading_sticker_message = await message.reply_sticker("CAACAgIAAxkBAALmzGXSSt3ppnOsSl_spnAP8wHC26jpAAJEGQACCOHZSVKp6_XqghKoHgQ")
+    loading_sticker_message = await message.reply_sticker("CAACAgUAAxkBAAEK9kplesefeK9I7q8YKm8G0ueDbxNBPQAC2QUAAgmmqFQjFkBaOSI-wDME")
     await asyncio.sleep(2)
     await loading_sticker_message.delete()
     
-    text = f"""Hello {message.from_user.mention} \n\n➻ This Is An Advanced And Yet Powerful Rename Bot.\n\n➻ Using This Bot You Can Rename And Change Thumbnail Of Your Files.\n\n➻ You Can Also Convert Video To File Aɴᴅ File To Video.\n\n➻ This Bot Also Supports Custom Thumbnail And Custom Caption.\n\n<b>Bot Is Made By @OnAnimeSeries</b>"""
+    text = f"""Hello {message.from_user.mention} \n\n➻ This Is An Advanced And Yet Powerful Rename Bot.\n\n➻ Using This Bot You Can Rename And Change Thumbnail Of Your Files.\n\n➻ You Can Also Convert Video To File Aɴᴅ File To Video.\n\n➻ This Bot Also Supports Custom Thumbnail And Custom Caption.\n\n<b>Bot Is Made By @TamilRockerz_TR</b>"""
     
     button = InlineKeyboardMarkup([
-        [InlineKeyboardButton("ᴏɴɢᴏɪɴɢ ᴀɴɪᴍᴇ ꜱᴇʀɪᴇꜱ", url="https://t.me/OnAnimeSeries"),
-        InlineKeyboardButton("💬 Support", url="https://t.me/OnAnimeseriesSupport")],
+        [InlineKeyboardButton("🦋 𝐓𝐚𝐦𝐢𝐥𝐑𝐨𝐜𝐤𝐞𝐫𝐳 𝐓𝐑 🦋", url="https://t.me/TamilRockerz_TR"),
+        InlineKeyboardButton("💬 Support", url="https://t.me/Kali_Botz_Support")],
         [InlineKeyboardButton("🛠️ Help", callback_data='help'),
         InlineKeyboardButton("❤️‍🩹 About", callback_data='about')],
-        [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://t.me/OnAnimeSeriesAdminbot")]
+        [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://t.me/Kalitgadmin_Bot")]
         ])
     
     await message.reply_photo(

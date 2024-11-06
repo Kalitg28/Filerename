@@ -20,16 +20,16 @@ class script(object):
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://koyeb.com/'>Koyeb</a>
-<b>📢 Channel :</b> <a href='https://t.me/OnAnimeSeries'>ᴏɴɢᴏɪɴɢ ᴀɴɪᴍᴇ ꜱᴇʀɪᴇꜱ</a>
+<b>📢 Channel :</b> <a href='https://t.me/TamilRockerz_TR'>🦋 𝐓𝐚𝐦𝐢𝐥𝐑𝐨𝐜𝐤𝐞𝐫𝐳 𝐓𝐑 🦋</a>
 
-<b>♻️ Bot Made By :</b> @OnAnimeSeries"""
+<b>♻️ Bot Made By :</b> @TamilRockerz_TR"""
 
     DONATE_TXT = """
 <b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
 
 If You Like My Bots & Projects,\nYou Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
 
-<b>🛍 UPI ID:</b> <code>9905665309@fam</code> 
+<b>🛍 UPI ID:</b> <code>kalimuthu@superyes</code> 
 
 <b>📸 Send Screenshot After Donation To Activate Your Premium Plan </b> """
 
@@ -49,9 +49,9 @@ If You Like My Bots & Projects,\nYou Can 🎁 Donate Me Any Amount From 10 Rs Up
 
 For Example :-
 
-<code>By @OnAnimeSeries</code>
+<code>By @TamilRockerz_TR</code>
 
-💬 For Any Help Contact @OnAnimeSeriesAdminbot
+💬 For Any Help Contact @Kalitgadmin_Bot
 """
 
 

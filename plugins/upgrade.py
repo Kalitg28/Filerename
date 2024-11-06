@@ -24,13 +24,12 @@ Price Rs 199  ind /🌎 3.16$  per Month
 
 Payment Details :-
 <b>➜ UPI ID :</b> <code>9905665309@fam</code>
-<b>➜ PayPal :</b> <a href='https://www.paypal.me/ibbs09'>Click Here</a>
-<b>➜ QR Code :</b> <a href='https://telegra.ph/ScanPay-09-16'>Click Here</a>
+<b>➜ QR Code :</b> <a href='https://envs.sh/j80.jpg'>Click Here</a>
 
-After Payment Send Screenshots Of Payment To Admin @OnAnimeSeriesAdminbot"""
+After Payment Send Screenshots Of Payment To Admin @Kalitgadmin_Bot"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/OnAnimeSeriesAdminbot"),
+        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/Kalitgadmin_Bot"),
         InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
         ])
     
@@ -54,14 +53,13 @@ Daily Upload limit 100GB
 Price Rs 199  ind /🌎 3.16$  per Month
 
 Payment Details :-
-<b>➜ UPI ID :</b> <code>9905665309@fam</code>
-<b>➜ PayPal :</b> <a href='https://www.paypal.me/ibbs09'>Click Here</a>
-<b>➜ QR Code :</b> <a href='https://telegra.ph/ScanPay-09-16'>Click Here</a>
+<b>➜ UPI ID :</b> <code>kalimuthu@superyes</code>
+<b>➜ QR Code :</b> <a href='https://envs.sh/j80.jpg'>Click Here</a>
 
-After Payment Send Screenshots Of Payment To Admin @OnAnimeSeriesAdminbot"""
+After Payment Send Screenshots Of Payment To Admin @Kalitgadmin_Bot"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/OnAnimeSeriesAdminbot"),
+        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/Kalitgadmin_Bot"),
         InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
         ])
     

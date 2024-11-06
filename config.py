@@ -9,22 +9,22 @@ ADMIN = int(os.environ.get("ADMIN", ""))
 
 
 # Premium 4GB Renaming Client Config
-STRING_SESSION = os.environ.get("STRING_SESSION", "BQCPRuQAE4DEstPiqGR-YV3qsRMqgFzM7Q1sIpMULN2i8ytRSIqMIJ05oH-CRKAHeCdaNTnva1mM63wzJUsz5eeAlt66bSKdKuEXFFaaDMrIfhHMx8oduvKHAR2O7NZzkdwjmGeiu3Rks4iguvEhbZutjxdry0zhwTt7Fllx7LPRWyc_4DzWScYmaLABKTG9C356GOnrOn9EahxA6MQalOJdpg4eoti7blTRuU4F8lBJA0yPapaOs3Jm4-cCAQ2ZoAyzIyNAQWqH_8Q5TaJ4-dy9v6NlPZ40n-PugzjinjhWEpa2n0LBZsBCIprrlVccd99dAFbvNRbqoNY1KeDNXaubquwHuwAAAAE1zjT1AA")
+STRING_SESSION = os.environ.get("STRING_SESSION", "BQCyNwMAbV4eXr89sLQNyoc78HXCqLyr8P_SC4Fxy9_cgOyOq7oiLYt7kNhRD3o7kg0-BoBD9YllXrNXKTWFnCcPe_ON_wGqQ2mP8kcBhKbN1CofB-LDOcWtBBVjLyneM4OHQobKFUp8le-qB-3jve1krijW-lZgT8z2INtyJcy63FrzLfg8sw9bXy1m7a5nzI4yHbyq6-OPwbHN_lHUrMvhGE12m3pdrzk-MT4PhqYLsLtCgjnaC6MsPutyKGJveiZ6qn2NnWYXXaV3EJbv0WxiZ-zpxcbU050DhTk1fEMB9VY376B3CPdl0RXZSN5p9yiIJ1gAxnbbg8xLZKmhBa0gjtOTPwAAAAFxMeNwAA")
 
 BOT_UPTIME  = time.time()
 
 # Log & Force Channel Config
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "OnAnimeSeries")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002169251162"))
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "TamilRockerz_TR")
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002014126653"))
 
 
 # Mongo DB Database Config
-DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://OnAnimeSeries:OnAnimeSeries@filexonanimeseries.2lwf4gr.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://filerename:filerename@cluster0.sd0p4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "FileXOnAnimeSeries")
 
 
 # Other Variables Config
-START_PIC = os.environ.get("START_PIC", "https://graph.org/file/d3dde3480b703b3f34e77.jpg")
+START_PIC = os.environ.get("START_PIC", "https://envs.sh/IMz.jpg")
 
 
 

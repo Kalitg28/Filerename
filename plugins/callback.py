@@ -23,7 +23,7 @@ async def about(bot,update):
 async def donatecm(bot,message):
     text = script.DONATE_TXT
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin",url = "https://t.me/OnAnimeSeriesAdminbot"),
+        [InlineKeyboardButton("🦋 Admin",url = "https://t.me/Kalitgadmin_Bot"),
         InlineKeyboardButton("✖️ Close",callback_data = "cancel") ]])
     await message.reply_text(text = text,reply_markup = keybord)    
 
@@ -102,13 +102,13 @@ async def donate(bot,update):
 
 @Client.on_callback_query(filters.regex('home'))
 async def home_callback_handler(bot, query):
-    text = f"""Hello {query.from_user.mention} \n\n➻ This Is An Advanced And Yet Powerful Rename Bot.\n\n➻ Using This Bot You Can Rename And Change Thumbnail Of Your Files.\n\n➻ You Can Also Convert Video To File Aɴᴅ File To Video.\n\n➻ This Bot Also Supports Custom Thumbnail And Custom Caption.\n\n<b>Bot Is Made By @OnAnimeSeries</b>"""
+    text = f"""Hello {query.from_user.mention} \n\n➻ This Is An Advanced And Yet Powerful Rename Bot.\n\n➻ Using This Bot You Can Rename And Change Thumbnail Of Your Files.\n\n➻ You Can Also Convert Video To File Aɴᴅ File To Video.\n\n➻ This Bot Also Supports Custom Thumbnail And Custom Caption.\n\n<b>Bot Is Made By @TamilRockerz_TR</b>"""
     keybord = InlineKeyboardMarkup([  
-                    [InlineKeyboardButton("ᴏɴɢᴏɪɴɢ ᴀɴɪᴍᴇ ꜱᴇʀɪᴇꜱ", url="https://t.me/OnAnimeSeries"),
-                    InlineKeyboardButton("💬 Support", url="https://t.me/OnAnimeseriesSupport")],
+                    [InlineKeyboardButton("🦋 𝐓𝐚𝐦𝐢𝐥𝐑𝐨𝐜𝐤𝐞𝐫𝐳 𝐓𝐑 🦋", url="https://t.me/TamilRockerz_TR"),
+                    InlineKeyboardButton("💬 Support", url="https://t.me/Kali_Botz_Support")],
                     [InlineKeyboardButton("🛠️ Help", callback_data='help'),
 		            InlineKeyboardButton("❤️‍🩹 About", callback_data='about')],
-                    [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://t.me/OnAnimeSeriesAdminbot")]
+                    [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://t.me/Kalitgadmin_Bot")]
 		  ])
     await query.message.edit_text(text=text, reply_markup=keybord)
 
